@@ -15,6 +15,7 @@ For example, one of my favorite extensions is the VIM extension. This brings VIM
 - I like VIM motions because it **gamifies** my dev work flow. It's like figuring out the controls to a videogame, and for my nuerodivergent ass. It scratches an itch my brain has. I LOVE to use keyboards. Vim allows me to edit code completely with my fingers on the home row, instead of using the mouse for navigation. This speeds up development time (for me).
 
 - Here is a screenshot of what the VIM hotkeys do, if you're curious. I love them!
+
 ![vim motions cheat sheet image](imgs/Vim Motions Cheat Sheet.png)
 [Microsoft's Wesbite to download VSCode](https://code.visualstudio.com/download)
 - You can download VSCode for Windows, Mac, and Linux. Choose whatever OS you are using.
