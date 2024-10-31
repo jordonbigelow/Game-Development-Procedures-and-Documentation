@@ -14,3 +14,9 @@
 3. Logic Pro X [Logic Pro's Webpage](https://www.apple.com/logic-pro/)
 - This is one that I will primarily use as I have a Mac and that is required for this software. However, if anybody wants to help me write music in a collaborative manner, I will drive the software, while other people provide feedback.
 - This is not required for anybody else to purchase. I just wanted to list it for documentation purposes, so we have a clear tech stack we are using to build our games.
+
+4. (This ones not really an application) Markdown or .md for Documentation
+- Here is a handy cheatsheet to understand the basic syntax of Markdown. [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- It is a super powerful way to style notes in a orderly maner without leaving your keyboard.
+- It's not a coding language, it's just a markup language to layout text in a nice looking way.
+- All the documentation here on this repo was written with Markdown.
