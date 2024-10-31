@@ -36,5 +36,4 @@ You can download my tutorial project that I build and interact with the engine a
 [Very Beginner friendly Godot Tutorial to Code along with!](https://www.youtube.com/watch?v=LOhfqjmasi0&t=1s)
 
 The individual in this video is very well respected in the Game Dev community. He is well known for providing high quality tutorials for the Unity Engine. But he recently switched to Godot! As he should, Godot is awesome!
-
  
