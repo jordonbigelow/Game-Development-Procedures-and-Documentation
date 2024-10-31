@@ -1,5 +1,5 @@
 # These are the other applications that will be used to make our games
-1. Aseprite [steampage for Aseprite](https://www.aseprite.org)
+1. Aseprite [Aseprite main website](https://www.aseprite.org)
 - This is a lovely piece of software that is just a joy to use.
 - It's $20.00 on steam, but does have a free version
 - It is used for all our Art needs (so far)
