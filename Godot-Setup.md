@@ -24,7 +24,7 @@ For example, one of my favorite extensions is the VIM extension. This brings VIM
 ## Now What?
 Ok, you downloaded a game engine and you're ready to get started?! I'd recommend taking a short tutorial into how GDScript works
 - This is the language the the game engine uses. It's a lot like Python and very easy to read and learn. Very recommended for beginners to development.
-[Godot Docs](https://docs.godotengine.org/en/4.3/index.html)
+This is also a very useful link that will be your go to resource for learning Godot [Godot Docs](https://docs.godotengine.org/en/4.3/index.html)
 
 You can follow this tutorial to understand the basics of GDScript [very fun tutorial](https://www.gdquest.com/learn-to-code-from-zero/)
 - It's very gamified so it doesn't take too long to get through. It's also built with Godot! Fun little fact.
@@ -36,3 +36,5 @@ You can download my tutorial project that I build and interact with the engine a
 [Very Beginner friendly Godot Tutorial to Code along with!](https://www.youtube.com/watch?v=LOhfqjmasi0&t=1s)
 
 The individual in this video is very well respected in the Game Dev community. He is well known for providing high quality tutorials for the Unity Engine. But he recently switched to Godot! As he should, Godot is awesome!
+
+ 
