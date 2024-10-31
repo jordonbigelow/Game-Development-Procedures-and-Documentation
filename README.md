@@ -7,4 +7,4 @@ The structure here should be obvious to navigate to the content you are looking 
 
 If you have questions, please feel free to ask.
 
-You can contact me on Discord twistedmood is my discord username, add me as a friend there and shoot me a DM
+You can contact me on Discord **twistedmood** is my discord username, add me as a friend there and shoot me a DM
