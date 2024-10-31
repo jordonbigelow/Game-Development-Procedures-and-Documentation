@@ -17,7 +17,7 @@ For example, one of my favorite extensions is the VIM extension. This brings VIM
 [Microsoft's Wesbite to download VSCode](https://code.visualstudio.com/download)
 - You can download VSCode for Windows, Mac, and Linux. Choose whatever OS you are using.
 
-## How to get VSCode working as Godot's editor; instead of using the build in one (optional)
+## How to get VSCode working as Godot's editor; instead of using the built in one (optional)
 [Reddit post that has a tutorial](https://www.reddit.com/r/godot/comments/16ve6y3/how_to_get_vscode_working_nicely_with_godot_and/)
 - Make sure you don't forget to download the godot-tools extension using the built-in extensions marketplace in VSCode.
 
