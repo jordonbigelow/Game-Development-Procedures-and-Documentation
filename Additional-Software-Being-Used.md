@@ -20,3 +20,6 @@
 - It is a super powerful way to style notes in a orderly maner without leaving your keyboard.
 - It's not a coding language, it's just a markup language to layout text in a nice looking way.
 - All the documentation here on this repo was written with Markdown.
+
+5. Discord [Link to Discord download](https://discord.com/download)
+- We will use this one to have virtual meetings and whatnot to have brainstorm sessions and collaborate in real time.
