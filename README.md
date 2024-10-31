@@ -6,3 +6,5 @@ It will also be a repo that develops over time, and will contain knowledge resou
 The structure here should be obvious to navigate to the content you are looking for. 
 
 If you have questions, please feel free to ask.
+
+You can contact me on Discord twistedmood is my discord username, add me as a friend there and shoot me a DM
