@@ -16,8 +16,8 @@ For example, one of my favorite extensions is the VIM extension. This brings VIM
 
 - Here is a screenshot of what the VIM hotkeys do, if you're curious. I love them!
 ![vim motions cheat sheet](imgs/Vim-Motions-Cheat-Sheet.png "VIM Motions Cheat Sheet")
-[Microsoft's Wesbite to download VSCode](https://code.visualstudio.com/download)
 - You can download VSCode for Windows, Mac, and Linux. Choose whatever OS you are using.
+[Microsoft's Wesbite to download VSCode](https://code.visualstudio.com/download)
 
 ## How to get VSCode working as Godot's editor; instead of using the built in one (optional)
 [Reddit post that has a tutorial](https://www.reddit.com/r/godot/comments/16ve6y3/how_to_get_vscode_working_nicely_with_godot_and/)
@@ -31,7 +31,7 @@ This is also a very useful link that will be your go to resource for learning Go
 You can follow this tutorial to understand the basics of GDScript [very fun tutorial](https://www.gdquest.com/learn-to-code-from-zero/)
 - It's very gamified so it doesn't take too long to get through. It's also built with Godot! Fun little fact.
 
-You can download my tutorial project that I build and interact with the engine and look at all the bits here on my repo on github!
+You can download my tutorial project that I built and interact with the engine and look at all the bits here on my repo on github!
 [Twisted's Godot Tutorial Github Link](https://github.com/jordonbigelow/Godot-Platformer-Tutorial)
 - All you need to do is download this folder, and then use the import project option in Godot and boom, you have your first working Game that you can interact with all yourself!
 - If you're curious to follow this tutorial yourself, I followed a very short youtube tutorial to build this little platformer. All the assetts are included within the description of the youtube video.
